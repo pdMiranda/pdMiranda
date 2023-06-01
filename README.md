@@ -25,7 +25,9 @@
    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
    <img style="height: 40px" alt="CSS3 Icon" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" />   
    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+ <div style="display: inline_block">
    <img align="right" height="180em" alt="Image" src="https://media.giphy.com/media/MBlSpxW9dqsiV8Vg4y/giphy-downsized.gif">
+ </div>
    
 </div>
  
