@@ -24,7 +24,7 @@
    <img style="height: 40px" alt="HTML5 Icon" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" />
    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
    <img style="height: 40px" alt="CSS3 Icon" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" />   
-   <img align="right" height="250em" alt="Image" src="https://media.giphy.com/media/MBlSpxW9dqsiV8Vg4y/giphy-downsized.gif">
+   <img align="right" alt="Image" src="https://media.giphy.com/media/MBlSpxW9dqsiV8Vg4y/giphy-downsized.gif">
 </div>
  
  ## Contato
