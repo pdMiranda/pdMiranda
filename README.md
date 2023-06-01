@@ -1,5 +1,18 @@
 ### Hi there 👋
 
+<section>
+   <br/>
+   <div align="center">
+      <img style="hight: 100%;" src="https://github-readme-stats.vercel.app/api?username=pdMiranda&show_icons=true&theme=tokyonight"/>
+   </div>
+   <br/>
+   <div align="center">
+      <img style="height: 100%;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pdMiranda-Knight&layout=compact&theme=tokyonight"/>
+   </div>
+   <br/>
+</section>
+
+
 <div align="center">
   <a href="https://github.com/GabrielHenrique20">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=pdMiranda&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
