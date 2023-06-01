@@ -1,7 +1,50 @@
 
-## Ola Eu sou Pedro Miranda estudante de Ciência da Compitação na PUC MINAS!
+## Ola, eu sou Pedro Miranda
 
-&nbsp;   
+ 
+ <div>
+  <a href="https://github.com/pdMiranda">
+   <img align="center" height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pdMiranda&layout=compact&langs_count=16&theme=dracula"/>
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=pdMiranda&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&hide=issues"/>
+</div>
+
+ ## Skills 
+<div style="display: inline_block" align="center">
+   <img style="height: 40px" alt="C Icon" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg"/>
+   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+   <img style="height: 40px" alt="C++ Icon" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg"/>
+   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+   <img style="height: 40px" alt="Java Icon" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
+   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+   <img style="height: 40px" alt="Python Icon" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" /> 
+   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+   <img style="height: 40px" alt="HTML5 Icon" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" />
+   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+   <img style="height: 40px" alt="CSS3 Icon" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" />   
+</div>
+</br>
+
+ ## Contato
+ <div> 
+  <a href="https://twitter.com/pdMiranda_" target="_blank"><img src="https://img.shields.io/badge/-Twitter-%23EA4335?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
+  <a href="https://www.instagram.com/pdmiranda_/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+  <a href = "mailto: pedromrodrigues1807@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+ </br>
+</br>
+   
+![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
+
+- 💻 Estudando Ciência da Computação
+- 📕 Estudo Filosofia no tempo livre
+- 🎨 Gosto de estudar teoria da arte
+- 📷 Tenho fotografia como pequeno hobbi
+- 📖 Gosto de literatura russa e poesia
+   
+<!--
+**pdMiranda/pdMiranda** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+     
+Here are some ideas to get you started:
 
 - 💻 Estudando Ciência da Computação;
 - 📕 Estudo Filosofia no tempo livre;
@@ -9,38 +52,6 @@
 - 📷 Tenho fotografia como pequeno hobbi;
 - 📖 Gosto de literatura russa e poesia;
 
-&nbsp;  
-
-<section>
-   <div align="center">
-     <a href="https://github.com/pdMiranda">
-     <img align="center" height="180em" src="https://github-readme-stats.vercel.app/api?username=pdMiranda&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/>
-     <img align="center" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pdMiranda&layout=compact&langs_count=7&theme=midnight-purple"/>
-   </div>
-</section>
-   
-&nbsp; 
-   
-<section>
-   <div align = "center">
-      <img style="height: 40px" alt="C Icon" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg"/>
-      <img style="height: 40px" alt="C++ Icon" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg"/>
-      <img style="height: 40px" alt="Java Icon" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
-      <img style="height: 40px" alt="Python Icon" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" /> 
-      <img style="height: 40px" alt="HTML5 Icon" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" />
-      <img style="height: 40px" alt="CSS3 Icon" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" />   
-   </div>
-</section>
-   
-   
-![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
-
-
-   
-<!--
-**pdMiranda/pdMiranda** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
 
 - 📫 How to reach me:
 - 🔭 I’m currently working on ...
