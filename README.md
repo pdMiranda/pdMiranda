@@ -9,7 +9,6 @@
 - 📷 Tenho fotografia como pequeno hobbi;
 - 📖 Gosto de literatura russa e poesia;
 
-&nbsp;   
 &nbsp;  
 
 <section>
@@ -19,7 +18,9 @@
      <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pdMiranda&layout=compact&langs_count=7&theme=dark"/>
    </div>
 </section>
-
+   
+&nbsp; 
+   
 <section>
    <div align = "center">
       <img style="height: 40px" alt="C Icon" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg"/>
