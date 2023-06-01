@@ -30,9 +30,11 @@
   <a href = "mailto: pedromrodrigues1807@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
  </br>
 </br>
+
+![Snake animation](https://github.com/pdMiranda/pdMiranda/blob/output/github-contribution-grid-snake.svg)
+
 </div>
    
-![Snake animation](https://github.com/pdMiranda/pdMiranda/blob/output/github-contribution-grid-snake.svg)
 
 - 💻 Estudando Ciência da Computação
 - 📕 Estudo Filosofia no tempo livre
@@ -41,17 +43,6 @@
 - 📖 Gosto de literatura russa e poesia
    
 <!--
-**pdMiranda/pdMiranda** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-     
-Here are some ideas to get you started:
-
-- 💻 Estudando Ciência da Computação;
-- 📕 Estudo Filosofia no tempo livre;
-- 🎨 Gosto de estudar teoria da arte;
-- 📷 Tenho fotografia como pequeno hobbi;
-- 📖 Gosto de literatura russa e poesia;
-
 
 - 📫 How to reach me:
 - 🔭 I’m currently working on ...
