@@ -48,7 +48,7 @@
 - 💻 Estudando Ciência da Computação
 - 📕 Estudo Filosofia no tempo livre
 - 🎨 Gosto de estudar teoria da arte
-- 📷 Tenho fotografia como pequeno hobbi
+- 📷 Tenho fotografia como pequeno hobbie
 - 📖 Gosto de literatura russa e poesia
 
 &nbsp;
