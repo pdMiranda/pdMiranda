@@ -6,7 +6,7 @@
 
   <a href="https://github.com/pdMiranda">
    <img align="center" height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pdMiranda&layout=compact&langs_count=16&theme=midnight-purple"/>
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=pdMiranda&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true&hide=issues"/>
+ 
 </div>
 
  ## Skills 
