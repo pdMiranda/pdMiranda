@@ -40,8 +40,6 @@
   <a href = "mailto: pedromrodrigues1807@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank" style="height: 35px"></></a>
 </br>
 
-![Snake animation](https://github.com/pdMiranda/pdMiranda/blob/output/github-contribution-grid-snake.svg)
-
 </div>
    
 
